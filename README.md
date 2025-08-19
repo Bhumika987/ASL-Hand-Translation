@@ -1,7 +1,3 @@
-Of course! Here is your ASL Recognition project's `README.md` formatted exactly like the "Multi-Chain Gas Tracker API" example, complete with badges, structure, and emojis.
-
----
-
 # Real-Time ASL Recognition System 👐🔤
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -84,9 +80,6 @@ python main.py
 Distributed under the MIT License. See `LICENSE` file for more information.
 
 ## 👨‍💻 Developer
-
-**Bhumika** - [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) - YourEmail@example.com
-
 Project Link: [https://github.com/Bhumika987/Real-Time-ASL-Recognition](https://github.com/Bhumika987/Real-Time-ASL-Recognition)
 
 ## 🙏 Acknowledgments
